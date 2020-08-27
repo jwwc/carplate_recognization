@@ -1,5 +1,5 @@
 # 车牌识别
-这个的车牌识别程序使用的是开源的车牌识别框架hyperlpr实现的，此框架的训练模型的导出格式为caffe,开源的框架的链接地址<p><a href="https://github.com/zeusees/HyperLPR">>Windows/Mac/Linux 全平台客户端</a></p>
+这个的车牌识别程序使用的是开源的车牌识别框架hyperlpr实现的，此框架的训练模型的导出格式为caffe,<p><a href="https://github.com/zeusees/HyperLPR">开源的框架的链接地址</a></p>
 ## python环境：
 python3
 ## 依赖环境：
